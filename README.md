@@ -1,4 +1,5 @@
-# DL_fashion
+## Paper
+You can find our paper here: https://drive.google.com/file/d/1Uqm30MAcdOTEcPSZrE4_9V_HDLhXNXnK/view?usp=sharing
 
 ## Local project Set up:
 
